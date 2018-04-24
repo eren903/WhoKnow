@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf41482708365c64786e19f8a4c9af2e, type: 3}
+  m_Name: SwapHands
+  m_EditorClassIdentifier: 
+  CardText: Swap Hand
+  Description: Swaps the hand with opposite player
+  PowerType: 6
+  Color: {r: 0.9673286, g: 0.97794116, b: 0.20853159, a: 1}

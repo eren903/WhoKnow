@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf41482708365c64786e19f8a4c9af2e, type: 3}
+  m_Name: RemoveLastText
+  m_EditorClassIdentifier: 
+  CardText: Remove last text
+  Description: Removed the last text added and deducts the player accordingly
+  PowerType: 5
+  Color: {r: 0.070772074, g: 0.70860785, b: 0.875, a: 1}
